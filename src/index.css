@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  margin: 20px;
+  color: green;
+
+}
+img {
+  height: 40px;
+  padding: 0 10px;
+  }
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;;
+    font: 20px bolt;
+    margin: 40px ;
+}
+
+table {
+  margin: 30px auto;
+}
+
+.title {
+    color: green;
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+.clickTitle{ 
+    color: green;
+    }
+
+
+.clickTitle:hover{  
+    text-decoration: underline;
+  }
+
+td{
+  column-count: 2;
+  }
+
+th{
+  text-align: center;
+}
+
+  
